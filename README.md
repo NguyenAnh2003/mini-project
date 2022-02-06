@@ -1,1 +1,4 @@
-# mini-project
+# Mini Git demo
+
+
+Git Demo 
